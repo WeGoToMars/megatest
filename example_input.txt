@@ -1,0 +1,53 @@
+What's the capital of Great Britain
+london.bmp
+3
+Paris
+London
+Kyiv
+1
+London
+----------
+What's the capital of Germany
+berlin.bmp
+4
+Istanbul
+Madrid
+Berlin
+Rome
+1
+Berlin
+----------
+What's the capital of Estonia
+tallinn.bmp
+3
+Tallinn
+Oslo
+Riga
+1
+Tallinn
+----------
+Choose all cities that are in Europe
+europe.bmp
+5
+New York
+Beijing
+Rome
+Warsaw
+Copenhagen
+3
+Rome
+Warsaw
+Copenhagen
+----------
+Choose all cities that are in Asia
+asia.bmp
+5
+New Delhi
+Beijing
+Bangkok
+Sydney
+Nairobi
+3
+New Delhi
+Beijing
+Bangkok

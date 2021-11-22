@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="4">
+      <Unit0>
+        <Filename Value="TestingSystem.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos Y="18"/>
+        <UsageCount Value="79"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="test.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Test"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="238"/>
+        <CursorPos X="36" Y="165"/>
+        <UsageCount Value="79"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="test.lfm"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="4"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="C:\lazarus\components\lazutils\lazstringutils.pas"/>
+        <UnitName Value="LazStringUtils"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="113"/>
+        <CursorPos Y="128"/>
+        <UsageCount Value="36"/>
+        <Loaded Value="True"/>
+      </Unit3>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="test.pas"/>
+        <Caret Line="201" Column="8" TopLine="187"/>
+      </Position1>
+      <Position2>
+        <Filename Value="test.pas"/>
+        <Caret Line="268" Column="49" TopLine="265"/>
+      </Position2>
+      <Position3>
+        <Filename Value="test.pas"/>
+        <Caret Line="215" Column="9" TopLine="211"/>
+      </Position3>
+      <Position4>
+        <Filename Value="test.pas"/>
+        <Caret Line="307" TopLine="256"/>
+      </Position4>
+      <Position5>
+        <Filename Value="test.pas"/>
+        <Caret Line="215" Column="12" TopLine="207"/>
+      </Position5>
+      <Position6>
+        <Filename Value="test.pas"/>
+        <Caret Line="216" Column="19" TopLine="207"/>
+      </Position6>
+      <Position7>
+        <Filename Value="test.pas"/>
+        <Caret Line="26" Column="7" TopLine="18"/>
+      </Position7>
+      <Position8>
+        <Filename Value="test.pas"/>
+        <Caret Line="33" Column="6" TopLine="18"/>
+      </Position8>
+      <Position9>
+        <Filename Value="test.pas"/>
+        <Caret Line="49" Column="16" TopLine="34"/>
+      </Position9>
+      <Position10>
+        <Filename Value="test.pas"/>
+        <Caret Line="62" Column="5" TopLine="46"/>
+      </Position10>
+      <Position11>
+        <Filename Value="test.pas"/>
+        <Caret Line="63" Column="4" TopLine="47"/>
+      </Position11>
+      <Position12>
+        <Filename Value="test.pas"/>
+        <Caret Line="132" Column="7" TopLine="116"/>
+      </Position12>
+      <Position13>
+        <Filename Value="test.pas"/>
+        <Caret Line="146" Column="30" TopLine="130"/>
+      </Position13>
+      <Position14>
+        <Filename Value="test.pas"/>
+        <Caret Line="147" Column="21" TopLine="131"/>
+      </Position14>
+      <Position15>
+        <Filename Value="test.pas"/>
+        <Caret Line="163" Column="30" TopLine="148"/>
+      </Position15>
+      <Position16>
+        <Filename Value="test.pas"/>
+        <Caret Line="177" Column="30" TopLine="161"/>
+      </Position16>
+      <Position17>
+        <Filename Value="test.pas"/>
+        <Caret Line="178" Column="21" TopLine="162"/>
+      </Position17>
+      <Position18>
+        <Filename Value="test.pas"/>
+        <Caret Line="185" Column="32" TopLine="169"/>
+      </Position18>
+      <Position19>
+        <Filename Value="test.pas"/>
+        <Caret Line="215" Column="10" TopLine="200"/>
+      </Position19>
+      <Position20>
+        <Filename Value="test.pas"/>
+        <Caret Line="216" Column="21" TopLine="201"/>
+      </Position20>
+      <Position21>
+        <Filename Value="test.pas"/>
+        <Caret Line="217" Column="17" TopLine="202"/>
+      </Position21>
+      <Position22>
+        <Filename Value="test.pas"/>
+        <Caret Line="219" Column="22" TopLine="204"/>
+      </Position22>
+      <Position23>
+        <Filename Value="test.pas"/>
+        <Caret Line="220" Column="44" TopLine="205"/>
+      </Position23>
+      <Position24>
+        <Filename Value="test.pas"/>
+        <Caret Line="226" Column="6" TopLine="211"/>
+      </Position24>
+      <Position25>
+        <Filename Value="test.pas"/>
+        <Caret Line="238" Column="5" TopLine="223"/>
+      </Position25>
+      <Position26>
+        <Filename Value="test.pas"/>
+        <Caret Line="280" Column="30" TopLine="273"/>
+      </Position26>
+      <Position27>
+        <Filename Value="test.pas"/>
+        <Caret Line="219" Column="16" TopLine="209"/>
+      </Position27>
+      <Position28>
+        <Filename Value="test.pas"/>
+        <Caret Line="211" Column="70" TopLine="208"/>
+      </Position28>
+      <Position29>
+        <Filename Value="test.pas"/>
+        <Caret Line="224" Column="24" TopLine="212"/>
+      </Position29>
+      <Position30>
+        <Filename Value="test.pas"/>
+        <Caret Line="110" Column="78" TopLine="105"/>
+      </Position30>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="1">
+      <Item1>
+        <Expression Value="N"/>
+      </Item1>
+    </Watches>
+  </Debugging>
+</CONFIG>
